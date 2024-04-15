@@ -57,4 +57,14 @@
 
 - [Лаб. вежби и домашни задачи](https://github.com/todorjovanovski/ai)
 
+### Софтверско инженерство
 
+- [Лаб. вежба 1 - git](https://github.com/todorjovanovski/SI_2023_lab1_213133)
+- [Лаб. вежба 2 - CFG](https://github.com/todorjovanovski/SI_2023_lab2_213133)
+
+---
+
+### Семестар 5
+### Дизајн и архитектура на софтвер
+
+- [Проект - Treasured Routes](https://github.com/todorjovanovski/DIANS_Homework)
